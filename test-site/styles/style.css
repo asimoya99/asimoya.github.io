@@ -1,0 +1,47 @@
+p {
+    color: blue;
+    width: 500px;
+    border: 1px solid black;
+    padding: 10px;
+}
+html {
+    font-size: 10px;
+    font-family: "Anton",sans-serif;
+    font-family: "Merriweather", serif;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+h3 {
+    font-size: 30px;
+    text-align: left;
+  
+}
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+html {
+    background-color: lawngreen;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+a {
+    text-align: center;
+    font-size: 20px;
+}
+img {
+    display: inline;
+    margin: 0 auto;
+}
